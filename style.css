@@ -1,0 +1,30 @@
+body {
+    background-color: blue;
+}
+
+h1 {
+
+    font-size: 22px;
+
+    font-family: Arial;
+
+}
+
+.emo{
+
+    
+background-color: crimson;
+
+text-align: center;
+
+}
+
+.turtle{
+
+    text-align: right;
+}
+
+.yes{
+
+    border: darkgreen;
+}
