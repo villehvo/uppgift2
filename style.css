@@ -24,7 +24,8 @@ text-align: center;
     text-align: right;
 }
 
-.yes{
-
-    border: darkgreen;
+.straw{
+    border: solid;
+    border-color: chartreuse;
+    border-width: 30px;
 }
