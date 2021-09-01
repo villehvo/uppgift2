@@ -29,3 +29,8 @@ text-align: center;
     border-color: chartreuse;
     border-width: 30px;
 }
+
+a:link {
+
+    text-decoration: none;
+}
